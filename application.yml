@@ -1,3 +1,4 @@
 server:
   port: 8081
 some-property: test
+new-feature-property:new-feature
