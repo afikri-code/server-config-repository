@@ -1,4 +1,4 @@
 server:
   port: 8081
-some-property: test
+some-property: from-new-feature-branch
 new-feature-property: new-feature
